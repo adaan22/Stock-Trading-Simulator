@@ -1,0 +1,6 @@
+Alpha Vantage = 0KT4BDDNVU6M6PFB
+
+https://api.polygon.io/v3/reference/tickers?ticker=AAPL&active=true&apiKey=Wd0P3QtWO107gpjoOr7Bps9EWW9PATf8
+
+https://www.marketwatch.com/investing/stock/" + stockCode + "/downloaddatapartial?startdate=11/08/2023%2000:00:00&enddate=12/08/2023%2023:59:59&daterange=d30&frequency=p1d&csvdownload=true&downloadpartial=false&newdates=false
+

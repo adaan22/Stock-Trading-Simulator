@@ -1,0 +1,8 @@
+https://www.amitph.com/java-download-file-from-url/
+https://replit.com/talk/learn/Using-Web-APIs-in-Python/20777
+https://www.youtube.com/watch?v=zZoboXqsCNw
+https://github.com/polygon-io/client-jvm/tree/master/sample/src/main/java/io/polygon - given by polygon 
+https://github.com/oscerd/finnhub-java-client/blob/master/src/main/java/com/github/oscerd/finnhub/client/FinnhubClient.java
+https://gist.github.com/Da9el00/e8b1c2e5185e51413d9acea81056c2f9
+https://finazon.io/catalog?is_free_options_available=1&search=
+https://www.w3schools.com/java/ref_string_touppercase.asp
